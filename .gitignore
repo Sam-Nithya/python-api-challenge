@@ -1,2 +1,3 @@
 # Ignore the api_keys.py file
 WeatherPy/api_keys.py
+.ipynb_checkpoints/
